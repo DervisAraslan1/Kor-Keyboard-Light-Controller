@@ -1,0 +1,6 @@
+# Derleme ciktilari (build.ps1 yeniden uretir)
+Kor.exe
+Kor.ico
+
+# Clevo'ya ait surucu arayuzu; dagitilmaz, build.ps1 kurulu Control Center'dan kopyalar
+InsydeDCHU.dll
