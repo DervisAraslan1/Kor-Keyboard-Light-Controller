@@ -4,6 +4,8 @@ Clevo kasalı dizüstüler (Monster Abra A7 V13.2 üzerinde denendi) için klavy
 
 Tek bölgeli RGB klavyeler içindir: klavyenin tamamı aynı anda tek renk alır, tuş başına renk donanım olarak desteklenmez.
 
+![Kor ana penceresi](docs/kor.png)
+
 ## Özellikler
 
 - **Efektler:** sabit renk, nefes, gökkuşağı, aurora, tuş vuruşu, renk zarı, yazma ısısı, polis
