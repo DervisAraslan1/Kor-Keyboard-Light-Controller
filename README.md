@@ -48,3 +48,7 @@ Betik `InsydeDCHU.dll` dosyasını kurulu Clevo paketinden kopyalar, `Kor.ico` s
 - `build.ps1` — derleme betiği
 
 Ayarlar `%AppData%\Kor\ayar.ini` dosyasında tutulur.
+
+## Lisans
+
+MIT. Ayrıntılar [LICENSE](LICENSE) dosyasında.
